@@ -1,0 +1,4 @@
+find . -type f -name "*~" -print -delete -or -name "#*#" -print -delete
+
+
+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
