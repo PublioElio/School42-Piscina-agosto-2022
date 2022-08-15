@@ -12,4 +12,4 @@ Y si lees esto y eres piscinero, como yo, espero haberte ayudado. **¡No te rind
 
 ## ¿Qué es School 42 Málaga?
 
-**School 42** es uncampus de programación que propone una innovadora forma de aprender tecnología: sin profesores, sin manuales, estudiantes aprendiendo de sus compañeros _(peer to peer learning)_, con una metodología que desarrolla habilidades informáticas y _soft skills_. El _42 cursus_ es gratis para quien aprueba el proceso de selección, que se conoce como _Piscine_, que consiste en... Bueno, eso mejor que lo descubras tú mismo/a :zipper_mouth_face:
+**School 42** es un campus de programación que propone una innovadora forma de aprender tecnología: sin profesores, sin manuales, estudiantes aprendiendo de sus compañeros _(peer to peer learning)_, con una metodología que desarrolla habilidades informáticas y _soft skills_. El _42 cursus_ es gratis para quien aprueba el proceso de selección, que se conoce como _Piscine_, que consiste en... Bueno, eso mejor que lo descubras tú mismo/a :zipper_mouth_face:
