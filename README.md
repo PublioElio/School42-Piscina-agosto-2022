@@ -23,18 +23,18 @@ Los primeros días de la piscina se realizan dos ejercicios de *Shell* para apre
 Todos los proyectos deben subirse a un repositorio git para ser evaluados, así que es necesario familiarizarse con esta tecnología.
 
 ### Lenguaje de programación C
-No en vano, se conoce como __C Piscine__, ya que es el principal lenguaje de programación que vamos a trabajar. Es necesario dominar estructuras de control, variables, todo tipo de operadores, librerías, punteros, __arrays__, funciones, etc.
+No en vano, se conoce como _C Piscine_, ya que es el principal lenguaje de programación que vamos a trabajar. Es necesario dominar estructuras de control, variables, todo tipo de operadores, librerías, punteros, _arrays_, funciones, etc.
 
 ## Soft-skills que se desarrollan en la C Piscine
 
 ### Autoaprendizaje :man_student:
-El principal pilar de la School 42 es la metodología __peer to peer learning__. Los estudiantes comparten sus conocimientos, buscan recursos online o en manuales. Se improvisan clases magistrales entre los mismos asistentes y cada uno aprende a su propio ritmo. Si no sabes la respuesta __¡pregunta a tu compañero/a a tu izquierda o a tu derecha!__ :raising_hand_man:
+El principal pilar de la School 42 es la metodología _peer to peer learning_. Los estudiantes **comparten sus conocimientos**, buscan recursos online o en manuales. Se improvisan clases magistrales entre los mismos asistentes y cada uno aprende a su propio ritmo. Si no sabes la respuesta _¡pregunta a tu compañero/a a tu izquierda o a tu derecha!_ :raising_hand_man:
 
 ### Trabajo en equipo :muscle:
-Durante los fines de semana se realizan unos proyectos llamados __Rush__. Se forman equipos aleatorios de tres alumnos que han de colaborar en encontrar una respuesta a un reto. Para ello deben poner en común sus conocimientos que, con toda seguridad, serán muy desiguales; apoyarse los unos a los otros y buscar una metodología de trabajo que les ayude a completar el proyecto. Después se ha de exponer el trabajo ante un miembro del __staff__, que evaluará la propuesta del equipo.
+Durante los **fines de semana** se realizan unos proyectos llamados _Rush_. Se forman equipos aleatorios de tres alumnos que han de colaborar en encontrar una respuesta a un reto. Para ello deben poner en común sus conocimientos que, con toda seguridad, serán muy desiguales; apoyarse los unos a los otros y buscar una metodología de trabajo que les ayude a completar el proyecto. Después se ha de exponer el trabajo ante un miembro del _staff_, que evaluará la propuesta del equipo.
 
 ### Gestión del tiempo :stopwatch:
-La piscina está abierta las 24 horas, por lo que es necesario administrar el tiempo de asistencia. Además, la elevada carga de trabajo hace que los alumnos tengan que priorizar unos proyectos sobre otros o dejar aparcados determinados ejercicios para seguir avanzando y no quedarse atrás.
+La piscina está abierta las **24 horas**, por lo que es necesario administrar el tiempo de asistencia. Además, la elevada carga de trabajo hace que los alumnos tengan que priorizar unos proyectos sobre otros o dejar aparcados determinados ejercicios para seguir avanzando y no quedarse atrás.
 
-### Resiliencia y tolerancia a la frustración :lotus_position:
+### Resiliencia :lotus_position:
 Muchas veces, los alumnos se encuentran con un escollo insalvable, retos demasiado difíciles para afrontarlos de manera individual, evaluaciones muy estrictas... Es necesario lidiar con estas situaciones con inteligencia emocional y empatía hacia los compañeros.
