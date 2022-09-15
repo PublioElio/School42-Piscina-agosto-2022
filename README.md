@@ -1,4 +1,4 @@
-# School 42 Málaga - Piscina de agosto de 2022
+# [School 42 Málaga](https://www.42malaga.com/) - Piscina de agosto de 2022
 > Ejercicios realizados durante la piscina de agosto de 2022
 
 Dentro de cada carpeta se incluye un documento **README** con los enunciados y la explicación de la solución de muchos de los ejercicios :smile: 
@@ -10,11 +10,11 @@ Trata de entender las soluciones, de nada te servirá copiar el código, cada ve
 
 Y si lees esto y eres piscinero, como yo, espero haberte ayudado. **¡No te rindas y sigue nadando!** :swimmer:
 
-## ¿Qué es School 42 Málaga?
+## ¿Qué es [School 42 Málaga](https://www.42malaga.com/)?
 
 **School 42** es un campus de programación que propone una innovadora forma de aprender tecnología: sin profesores, sin manuales, estudiantes aprendiendo de sus compañeros _(peer to peer learning)_, con una metodología que desarrolla habilidades informáticas y _soft skills_. El _42 cursus_ es gratis para quien aprueba el proceso de selección, que se conoce como _Piscine_, que consiste en... Bueno, eso mejor que lo descubras tú mismo/a :zipper_mouth_face:
 
-## Tecnologías tratadas en la Piscina de School 42 Málaga
+## Tecnologías tratadas en la Piscina de [School 42 Málaga](https://www.42malaga.com/)
 
 ### Shell
 Los primeros días de la piscina se realizan dos ejercicios de *Shell* para aprender dese los comandos más básicos hasta algunos avanzados, de esta manera, desarrollamos la habilidad de movernos por la terminal :computer: de una forma rápida y eficiente, crear scripts, conocer los comandos de Shell, las variables de entorno, el sistema de archivos, etc.
