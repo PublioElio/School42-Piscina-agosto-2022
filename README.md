@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Oe5oxorcv6KAcRK0bq/giphy.gif" width="250"/>
+</div>
+
 # [School 42 Málaga](https://www.42malaga.com/) - Piscina de agosto de 2022
 > Ejercicios realizados durante la piscina de agosto de 2022
 
@@ -9,6 +13,10 @@ _¿Tienes una solución mejor? ¡estaré encantado de que la compartas conmigo!_
 Trata de entender las soluciones, de nada te servirá copiar el código, cada vez que copias código sin comprenderlo, _muere un gatito_ :scream_cat:
 
 Y si lees esto y eres piscinero, como yo, espero haberte ayudado. **¡No te rindas y sigue nadando!** :swimmer:
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/8GH31ckChzs88jmcHb/giphy.gif" width="250"/>
+</div>
 
 ## ¿Qué es [School 42 Málaga](https://www.42malaga.com/)?
 
